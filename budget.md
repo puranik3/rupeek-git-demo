@@ -1,0 +1,5 @@
+- To welcome the entire universe
+    - Marketing: Rs. 10000000000
+    - Sales: Rs. 100000000
+- Go to places where no man has gone before
+    - R&D: Rs. 100000
