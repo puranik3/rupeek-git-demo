@@ -2,4 +2,4 @@
     - Marketing: Rs. 200000000
     - Sales: Rs. 200000000
 - Go to places where no man has gone before
-    - R&D: Rs. 100000000
+    - R&D: Rs. 5500000000
